@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340331312357",
+    "project_id": "instagram-clone-641a2",
+    "storage_bucket": "instagram-clone-641a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340331312357:android:ebdad0ba60a12070c4d00c",
+        "android_client_info": {
+          "package_name": "pranshu.com.instagram_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340331312357-ba6330ckiij1pre64iomr88m95pt2iek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMug0g3pgx1ARyl9-YxCZ1n2m2nwzGP20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340331312357-ba6330ckiij1pre64iomr88m95pt2iek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
